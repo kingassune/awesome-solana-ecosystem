@@ -59,7 +59,7 @@
  - [Token Swap (Advanced)](https://github.com/solana-labs/solana-program-library/tree/master/token-swap) 
   
  #### Developer Tooling & Ressources
- - [Skunka Tools](https://skunka-tools.xyz) - No code SPL Token Manager on Solana Blockchain.
+ - [Eonify](https://eonify.space) - No code SPL Token Manager on Solana Blockchain.
  - [Sollet.io](https://sollet.io) allows you to request airdops and mint test tokens where allowed 
  - [Solana Cookbook](https://solanacookbook.com/) - Developer resource that provides the essential concepts and references for building applications on Solana.
  - [walletOS](https://www.pinestreetlabs.com/walletos/) - An API for using blockchains. Embed transfers, staking, and smart contracts on 18+ protocols into your product with a few lines of code.
